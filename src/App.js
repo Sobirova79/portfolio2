@@ -8,8 +8,6 @@ import Service from "./pages/Service";
 import Portfolio from "./pages/Portfolio";
 import Blog from "./pages/Blog";
 
-//some coomment
-
 function App() {
   return (
     <BrowserRouter>
